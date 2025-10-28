@@ -1,6 +1,5 @@
 # Real-Time Chat with Firebase
-
-![Project Banner](./assets/banner.png) <!-- Optional: Add a nice banner image to an assets folder -->
+ <!-- Optional: Add a nice banner image to an assets folder -->
 
 A modern, real-time chat application built on the Firebase platform. This project aims to create a unified communication ecosystem that eliminates the need for users to choose between powerful features and robust privacy.
 
